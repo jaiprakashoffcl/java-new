@@ -11,7 +11,7 @@ public class abstractclass extends animals{
 	void sounds() {
 		System.out.println("Dog barks");
 	}
-
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		abstractclass abs = new abstractclass();
